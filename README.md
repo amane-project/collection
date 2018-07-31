@@ -4,9 +4,8 @@
 
 ## 公開中の資料情報
 ### 三国大野屋襖裏張り文書資料（仮）
-**MetaData**：
-
-`mikunioonoya-fusuma.csv`  
+**Meta Data**：`mikunioonoya-fusuma.csv`  
+**Image Data**： <https://flic.kr/s/aHskEo2bGW>
 
 **入手日**：（1回目）2018年6月28日・（2回目）2018年7月3日
 
