@@ -1,7 +1,5 @@
 # AMANE Open Repository Project
 
-このファイルでは、**合同会社AMANE**が公開している学術資料情報の概要を記す。
-
 ## プロジェクトの概要
 
 ![Screenshot](https://drive.google.com/uc?export=view&id=1ysf-OAsB5gCY1qH3xGRAxD5BJBvBxncI)
